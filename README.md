@@ -1,4 +1,5 @@
 #EN
+<br />
 !! THE APPLICATION WORKS ONLY ON A LOCAL NETWORK !!
 !! THE `Project` FOLDER CONTAINS THE SOURCE PROJECT (`Messenger\App\Project` - asset for unity; `Messenger\Server\Project` - Visual Studio C# console application)!!
 
@@ -10,13 +11,14 @@
 - Enter a nickname. If you leave the field empty, the application will fill it in with the nickname itself.
 - - In the application, enter the ipv4 server and port.
 - Click the "Connect" button.
-- Upon successful connection, a message will appear: <font color="green">"The public key from the server has been received."</font>
+- Upon successful connection, a message will appear: "The public key from the server has been received."
 
 3. Send messages by pressing the `Enter` button on the keyboard or `↑` next to the message input field.
 
 4. Now you can chat with everyone who is connected to the server!
 <br />
-#[RU
+#RU
+<br />
 !! ПРИЛОЖЕНИЕ РАБОТАЕТ ТОЛЬКО ПО ЛОКАЛЬНОЙ СЕТИ !!
 !! В ПАПКЕ `Project` НАХОДИТСЯ ИСХОДНЫЙ ПРОЕКТ (`Messanger\App\Project` - ассет для unity; `Messanger\Server\Projec`t - консольное приложение Visual Studio C#) !!
 
