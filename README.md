@@ -1,4 +1,4 @@
-#EN
+![EN]
 !! THE APPLICATION WORKS ONLY ON A LOCAL NETWORK !!
 !! THE "Project" FOLDER CONTAINS THE SOURCE PROJECT (Messenger\App\Project - cassettes for unity; Messenger\Server\Project - Visual Studio C# console application)!!
 
@@ -15,7 +15,7 @@
 3. Send messages by pressing the Enter button on the keyboard or "↑" next to the message input field.
 
 4. Now you can chat with everyone who is connected to the server!
-#RU
+![RU]
 !! ПРИЛОЖЕНИЕ РАБОТАЕТ ТОЛЬКО ПО ЛОКАЛЬНОЙ СЕТИ !!
 !! В ПАПКЕ "Project" НАХОДИТСЯ ИСХОДНЫЙ ПРОЕКТ (Messanger\App\Project - ассет для unity; Messanger\Server\Project - консольное приложение Visual Studio C#) !!
 
