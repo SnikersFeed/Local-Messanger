@@ -1,7 +1,9 @@
 #EN
 <br />
-!! THE APPLICATION WORKS ONLY ON A LOCAL NETWORK !!
-!! THE `Project` FOLDER CONTAINS THE SOURCE PROJECT (`Messenger\App\Project` - asset for unity; `Messenger\Server\Project` - Visual Studio C# console application)!!
+> [!WARNING]
+> The server is running on .NET 5. If it is not present, then the server simply will not start. You can copy the server code to Visual Studio with any newer version.NET 5
+> !! THE APPLICATION WORKS ONLY ON A LOCAL NETWORK !!
+> !! THE `Project` FOLDER CONTAINS THE SOURCE PROJECT (`Messenger\App\Project` - asset for unity; `Messenger\Server\Project` - Visual Studio C# console application)!!
 
 1. To launch the application, first start the server on one of the local computers: Messenger\Server\Server\Messanger Server.exe
 - Enter any port into the server console. For example: 5000.
@@ -19,8 +21,11 @@
 <br />
 #RU
 <br />
-!! ПРИЛОЖЕНИЕ РАБОТАЕТ ТОЛЬКО ПО ЛОКАЛЬНОЙ СЕТИ !!
-!! В ПАПКЕ `Project` НАХОДИТСЯ ИСХОДНЫЙ ПРОЕКТ (`Messanger\App\Project` - ассет для unity; `Messanger\Server\Projec`t - консольное приложение Visual Studio C#) !!
+
+> [!WARNING]
+> Сервер работает на .NET 5. Если его нет, то сервер просто не запустится. Можете скопировать код сервера в Visual Studio с любой версией новее .NET 5
+> !! ПРИЛОЖЕНИЕ РАБОТАЕТ ТОЛЬКО ПО ЛОКАЛЬНОЙ СЕТИ !!
+> !! В ПАПКЕ `Project` НАХОДИТСЯ ИСХОДНЫЙ ПРОЕКТ (`Messanger\App\Project` - ассет для unity; `Messanger\Server\Projec`t - консольное приложение Visual Studio C#) !!
 
 1. Для запуска приложения сначала запусти на одном из локальных компьютеров сервер: `Messanger\Server\Server\Messanger Server.exe`
 - В консоль сервера впиши любой порт. К примеру: 5000.
